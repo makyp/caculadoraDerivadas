@@ -6,7 +6,7 @@ import org.nfunk.jep.ParseException;
 
 /**
  *
- * @author El código de Adrian
+ * @author El código de Makyp
  */
 public class Derivadas {
 
