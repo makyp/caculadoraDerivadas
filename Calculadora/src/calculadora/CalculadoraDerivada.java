@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author El código de Adrian
+ * @author El código de Makyp
  */
 public class CalculadoraDerivada extends javax.swing.JFrame {
 
