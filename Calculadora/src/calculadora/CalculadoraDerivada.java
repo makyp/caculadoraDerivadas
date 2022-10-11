@@ -31,7 +31,7 @@ public class CalculadoraDerivada extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Calculadora de derivadas");
 
-        jLabel1.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Verdana", 0, 12)); // NOI18N
         jLabel1.setText("Función a derivar:");
 
         jLabel2.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
